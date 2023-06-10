@@ -1,2 +1,4 @@
-# MusicGeneration
-Music Generation Using MusicGen and Audiocraft
+# Music Generation
+### Music Generation Using MusicGen and Audiocraft
+
+`streamlit run mg.py`
