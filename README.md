@@ -61,7 +61,7 @@ Gui will open on your default browser
 
 <hr>
 
-TODO: Take adavantage of caching to speed up the app
+~~TODO: Take adavantage of caching to speed up the app~~
 <br>
 TODO: Use experimental garbage collect to limit memory use
 
