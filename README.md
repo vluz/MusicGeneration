@@ -44,6 +44,14 @@ cd MusicGeneration
 pip install -r requirements.txt
 ```
 
+Here is a tested set of requirements updated 11-02-2024:      
+```
+audiocraft==1.3.0a1
+streamlit==1.30.0
+torch==2.1.2+cu121
+torchaudio==2.1.2+cu121
+```
+
 On first run it may download several models.
 <br>
 The GUI may be blank or unresponsive for the duration of the setup
