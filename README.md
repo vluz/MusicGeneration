@@ -29,6 +29,10 @@ In particular, a internal dataset of 10000 high-quality music tracks
 <br>
 and as music data from Shutterstock and Pond5.
 
+A sample output can be found here:
+<br>
+https://github.com/vluz/MusicGeneration/blob/main/20240116-211520.wav
+
 <hr>
 
 Open a command prompt and `cd` to a new directory of your choosing:
