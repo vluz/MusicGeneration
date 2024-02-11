@@ -20,6 +20,8 @@ using Meta's EnCodec audio tokenizer.
 A single-stage model that processes tokens in parallel.
 <br>
 MusicGen is fast and efficient but does require a bit of VRAM to run.
+<br>
+Currently around 16GB of vram for the smallest model.
 
 The researchers used 20k hours of licensed music for training. 
 <br>
