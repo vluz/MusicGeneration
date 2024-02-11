@@ -4,7 +4,7 @@ import torch
 import torchaudio
 import time
 from audiocraft.models import MusicGen
-from audiocraft.data.audio import i16_pcm, normalize_audio
+from audiocraft.data.audio_utils import i16_pcm, normalize_audio
 
 
 @st.cache_resource
