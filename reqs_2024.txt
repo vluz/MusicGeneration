@@ -1,0 +1,4 @@
+audiocraft==1.3.0a1
+streamlit==1.30.0
+torch==2.1.2+cu121
+torchaudio==2.1.2+cu121
